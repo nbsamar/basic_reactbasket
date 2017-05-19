@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import Cart from '/home/nbsamar/third/src/Cart.js';
+import Cart from '../Cart.js';
 
 export default class ProductFooter extends Component{
 
